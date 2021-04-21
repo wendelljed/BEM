@@ -1,0 +1,30 @@
+.card, .card__button--active:hover {
+  height: 500px;
+  width: 300px;
+  background-color: #000;
+}
+
+.card__title {
+  font-size: 50px;
+  color: #fff;
+}
+
+.card__button--active {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "times new roman";
+  color: pink;
+}
+
+.card__button--active:hover {
+  background-color: blue;
+  color: #fff;
+}
+
+.card__button {
+  font-size: 50px;
+  font-weight: italic;
+  font-family: Verdana;
+  color: #000;
+}
+/*# sourceMappingURL=BEM.css.map */
